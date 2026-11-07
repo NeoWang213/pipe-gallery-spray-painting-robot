@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900">
+<rect width="1440" height="900" fill="#f5f8fc"/>
+<text x="45" y="66" fill="#142d44" font-size="36" font-family="Segoe UI,Arial,sans-serif">Robot System and Painting Workflow</text>
+<text x="46" y="110" fill="#51667a" font-size="20" font-family="Segoe UI,Arial,sans-serif">Position the base &gt; Select a region &gt; Plan and preview &gt; Execute the arm path; keep the base stationary</text>
+<rect x="45" y="190" width="305" height="130" rx="12" fill="#e4eff8" stroke="#b6ccdf" stroke-width="2"/>
+<text x="63" y="231" fill="#142d44" font-size="23" font-family="Segoe UI,Arial,sans-serif">Operator / desktop app</text>
+<text x="63" y="261" fill="#142d44" font-size="19" font-family="Segoe UI,Arial,sans-serif">v1.0: serial robot control</text>
+<text x="63" y="295" fill="#142d44" font-size="19" font-family="Segoe UI,Arial,sans-serif">v2.0: visual painting app</text>
+<rect x="490" y="190" width="385" height="130" rx="12" fill="#e4eff8" stroke="#b6ccdf" stroke-width="2"/>
+<text x="508" y="231" fill="#142d44" font-size="23" font-family="Segoe UI,Arial,sans-serif">Vision and path planning</text>
+<text x="508" y="261" fill="#142d44" font-size="19" font-family="Segoe UI,Arial,sans-serif">RealSense depth data</text>
+<text x="508" y="295" fill="#142d44" font-size="19" font-family="Segoe UI,Arial,sans-serif">Selection, projection, raster path</text>
+<rect x="1010" y="190" width="380" height="130" rx="12" fill="#e4eff8" stroke="#b6ccdf" stroke-width="2"/>
+<text x="1028" y="231" fill="#142d44" font-size="23" font-family="Segoe UI,Arial,sans-serif">UFACTORY xArm6</text>
+<text x="1028" y="261" fill="#142d44" font-size="19" font-family="Segoe UI,Arial,sans-serif">Ethernet / xArm SDK</text>
+<text x="1028" y="295" fill="#142d44" font-size="19" font-family="Segoe UI,Arial,sans-serif">Execute the planned arm path</text>
+<polyline points="350,250 490,250" fill="none" stroke="#2276ad" stroke-width="4"/>
+<polygon points="490,250 477,242 477,258" fill="#2276ad"/>
+<polyline points="875,250 1010,250" fill="none" stroke="#2276ad" stroke-width="4"/>
+<polygon points="1010,250 997,242 997,258" fill="#2276ad"/>
+<rect x="45" y="455" width="305" height="130" rx="12" fill="#e4eff8" stroke="#b6ccdf" stroke-width="2"/>
+<text x="63" y="496" fill="#142d44" font-size="23" font-family="Segoe UI,Arial,sans-serif">Mecanum-wheel base</text>
+<text x="63" y="526" fill="#142d44" font-size="19" font-family="Segoe UI,Arial,sans-serif">Remote positioning</text>
+<text x="63" y="560" fill="#142d44" font-size="19" font-family="Segoe UI,Arial,sans-serif">Stationary during painting</text>
+<rect x="490" y="455" width="385" height="130" rx="12" fill="#e4eff8" stroke="#b6ccdf" stroke-width="2"/>
+<text x="508" y="496" fill="#142d44" font-size="23" font-family="Segoe UI,Arial,sans-serif">Custom spray system</text>
+<text x="508" y="526" fill="#142d44" font-size="19" font-family="Segoe UI,Arial,sans-serif">STM32, relay, solenoid valve</text>
+<text x="508" y="560" fill="#142d44" font-size="19" font-family="Segoe UI,Arial,sans-serif">Bluetooth switching + OLED</text>
+<rect x="1010" y="455" width="380" height="130" rx="12" fill="#e4eff8" stroke="#b6ccdf" stroke-width="2"/>
+<text x="1028" y="496" fill="#142d44" font-size="23" font-family="Segoe UI,Arial,sans-serif">Spray gun / camera assembly</text>
+<text x="1028" y="526" fill="#142d44" font-size="19" font-family="Segoe UI,Arial,sans-serif">Custom mounts and brackets</text>
+<text x="1028" y="560" fill="#142d44" font-size="19" font-family="Segoe UI,Arial,sans-serif">Pneumatic circuit and paint supply</text>
+<polyline points="200,320 200,455" fill="none" stroke="#2276ad" stroke-width="4"/>
+<polygon points="200,455 192,442 208,442" fill="#2276ad"/>
+<polyline points="875,520 1010,520" fill="none" stroke="#26826c" stroke-width="4"/>
+<polygon points="1010,520 997,512 997,528" fill="#26826c"/>
+<polyline points="1200,320 1200,455" fill="none" stroke="#26826c" stroke-width="4"/>
+<polygon points="1200,455 1192,442 1208,442" fill="#26826c"/>
+<text x="45" y="717" fill="#142d44" font-size="27" font-family="Segoe UI,Arial,sans-serif">Physical demonstrations</text>
+<text x="45" y="764" fill="#142d44" font-size="24" font-family="Segoe UI,Arial,sans-serif">Positioning, path execution, and spray painting on planar test pieces.</text>
+<text x="45" y="804" fill="#142d44" font-size="22" font-family="Segoe UI,Arial,sans-serif">The spray gun is switched through a separate remote control.</text>
+<text x="45" y="857" fill="#51667a" font-size="20" font-family="Segoe UI,Arial,sans-serif">Target: pipe exterior maintenance. Curved-pipe following and quantitative coating quality remain unverified.</text>
+</svg>

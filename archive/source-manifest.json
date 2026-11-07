@@ -1,0 +1,17 @@
+[
+  {
+    "original": "喷漆机器人控制平台软件/喷漆机器人控制平台v1.0.py",
+    "archived": "archive/original-software/喷漆机器人控制平台v1.0.py",
+    "sha256": "3852470967a2e4eca74b1bc11cbc51ff326ba08cfd000fb9b2223403ea45487a"
+  },
+  {
+    "original": "喷漆机器人控制平台软件/喷漆机器人控制平台v2.0.py",
+    "archived": "archive/original-software/喷漆机器人控制平台v2.0.py",
+    "sha256": "20c25bb08c5af03dc88a0e3295fd76d01e3e10887a65bc428440d593f9672b34"
+  },
+  {
+    "original": "喷漆机器人控制平台软件/喷漆机器人控制软件用户手册.pdf",
+    "archived": "docs/user-manual-v1.pdf",
+    "sha256": "86356a19cfbcc4b658e4e4103351730dfdc6fe7bff3737b81e93dd3107307922"
+  }
+]

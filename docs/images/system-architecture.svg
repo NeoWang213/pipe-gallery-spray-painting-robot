@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900">
+<rect width="1440" height="900" fill="#f5f8fc"/>
+<text x="45" y="66" fill="#142d44" font-size="36" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">机器人系统与作业流程</text>
+<text x="46" y="110" fill="#51667a" font-size="20" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">人工遥控到位 → 视觉选区 → 轨迹规划与预览 → 机械臂执行；底盘作业时固定</text>
+<rect x="45" y="190" width="305" height="130" rx="12" fill="#e4eff8" stroke="#b6ccdf" stroke-width="2"/>
+<text x="63" y="231" fill="#142d44" font-size="23" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">操作人员 / 上位机</text>
+<text x="63" y="261" fill="#142d44" font-size="19" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">v1.0：整机串口控制</text>
+<text x="63" y="295" fill="#142d44" font-size="19" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">v2.0：视觉喷涂专项软件</text>
+<rect x="490" y="190" width="385" height="130" rx="12" fill="#e4eff8" stroke="#b6ccdf" stroke-width="2"/>
+<text x="508" y="231" fill="#142d44" font-size="23" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">视觉与轨迹规划</text>
+<text x="508" y="261" fill="#142d44" font-size="19" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">RealSense 深度图像</text>
+<text x="508" y="295" fill="#142d44" font-size="19" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">选区、投影、往返扫描、预览</text>
+<rect x="1010" y="190" width="380" height="130" rx="12" fill="#e4eff8" stroke="#b6ccdf" stroke-width="2"/>
+<text x="1028" y="231" fill="#142d44" font-size="23" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">UFACTORY xArm6</text>
+<text x="1028" y="261" fill="#142d44" font-size="19" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">网口 / xArm SDK</text>
+<text x="1028" y="295" fill="#142d44" font-size="19" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">执行预定喷涂轨迹</text>
+<polyline points="350,250 490,250" fill="none" stroke="#2276ad" stroke-width="4"/>
+<polygon points="490,250 477,242 477,258" fill="#2276ad"/>
+<polyline points="875,250 1010,250" fill="none" stroke="#2276ad" stroke-width="4"/>
+<polygon points="1010,250 997,242 997,258" fill="#2276ad"/>
+<rect x="45" y="455" width="305" height="130" rx="12" fill="#e4eff8" stroke="#b6ccdf" stroke-width="2"/>
+<text x="63" y="496" fill="#142d44" font-size="23" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">麦克纳姆轮全向底盘</text>
+<text x="63" y="526" fill="#142d44" font-size="19" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">遥控调整作业位置</text>
+<text x="63" y="560" fill="#142d44" font-size="19" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">喷涂期间保持固定</text>
+<rect x="490" y="455" width="385" height="130" rx="12" fill="#e4eff8" stroke="#b6ccdf" stroke-width="2"/>
+<text x="508" y="496" fill="#142d44" font-size="23" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">独立喷漆系统</text>
+<text x="508" y="526" fill="#142d44" font-size="19" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">STM32、继电器、电磁阀</text>
+<text x="508" y="560" fill="#142d44" font-size="19" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">蓝牙开关与 OLED 状态显示</text>
+<rect x="1010" y="455" width="380" height="130" rx="12" fill="#e4eff8" stroke="#b6ccdf" stroke-width="2"/>
+<text x="1028" y="496" fill="#142d44" font-size="23" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">末端喷枪 / 相机装配</text>
+<text x="1028" y="526" fill="#142d44" font-size="19" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">独立设计的连接与支架</text>
+<text x="1028" y="560" fill="#142d44" font-size="19" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">气动回路、供漆与喷枪控制</text>
+<polyline points="200,320 200,455" fill="none" stroke="#2276ad" stroke-width="4"/>
+<polygon points="200,455 192,442 208,442" fill="#2276ad"/>
+<polyline points="875,520 1010,520" fill="none" stroke="#26826c" stroke-width="4"/>
+<polygon points="1010,520 997,512 997,528" fill="#26826c"/>
+<polyline points="1200,320 1200,455" fill="none" stroke="#26826c" stroke-width="4"/>
+<polygon points="1200,455 1192,442 1208,442" fill="#26826c"/>
+<text x="45" y="717" fill="#142d44" font-size="27" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">已完成验证</text>
+<text x="45" y="764" fill="#142d44" font-size="24" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">平面试件上的定位、轨迹执行与实际喷漆；独立遥控喷枪开关。</text>
+<text x="45" y="821" fill="#51667a" font-size="21" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">目标应用：管廊内管道外壁维护。管道曲面姿态跟随与定量涂层质量尚无已提供验证。</text>
+</svg>

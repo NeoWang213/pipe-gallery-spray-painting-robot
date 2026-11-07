@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900">
+<rect width="1440" height="900" fill="#f5f8fc"/>
+<text x="45" y="66" fill="#142d44" font-size="36" font-family="Segoe UI,Arial,sans-serif">Spray System Pneumatic Circuit</text>
+<text x="46" y="110" fill="#51667a" font-size="20" font-family="Segoe UI,Arial,sans-serif">English rendering of the original project diagram | Air, control, and paint paths</text>
+<rect x="45" y="180" width="290" height="120" rx="12" fill="#e4eff8" stroke="#b6ccdf" stroke-width="2"/>
+<text x="63" y="221" fill="#142d44" font-size="23" font-family="Segoe UI,Arial,sans-serif">Air compressor</text>
+<text x="63" y="251" fill="#142d44" font-size="19" font-family="Segoe UI,Arial,sans-serif">Compressed air source</text>
+<rect x="440" y="180" width="245" height="120" rx="12" fill="#e4eff8" stroke="#b6ccdf" stroke-width="2"/>
+<text x="458" y="221" fill="#142d44" font-size="23" font-family="Segoe UI,Arial,sans-serif">Tee fitting</text>
+<text x="458" y="251" fill="#142d44" font-size="19" font-family="Segoe UI,Arial,sans-serif">Two air branches</text>
+<rect x="800" y="180" width="300" height="120" rx="12" fill="#e4eff8" stroke="#b6ccdf" stroke-width="2"/>
+<text x="818" y="221" fill="#142d44" font-size="23" font-family="Segoe UI,Arial,sans-serif">Pressure regulator</text>
+<text x="818" y="251" fill="#142d44" font-size="19" font-family="Segoe UI,Arial,sans-serif">Atomization air branch</text>
+<rect x="800" y="420" width="300" height="120" rx="12" fill="#e4eff8" stroke="#b6ccdf" stroke-width="2"/>
+<text x="818" y="461" fill="#142d44" font-size="23" font-family="Segoe UI,Arial,sans-serif">Solenoid valve</text>
+<text x="818" y="491" fill="#142d44" font-size="19" font-family="Segoe UI,Arial,sans-serif">Spray control air branch</text>
+<rect x="1190" y="300" width="205" height="165" rx="12" fill="#e4eff8" stroke="#b6ccdf" stroke-width="2"/>
+<text x="1208" y="341" fill="#142d44" font-size="23" font-family="Segoe UI,Arial,sans-serif">Spray gun</text>
+<text x="1208" y="371" fill="#142d44" font-size="19" font-family="Segoe UI,Arial,sans-serif">Atomization air</text>
+<text x="1208" y="405" fill="#142d44" font-size="19" font-family="Segoe UI,Arial,sans-serif">Control air</text>
+<text x="1208" y="439" fill="#142d44" font-size="19" font-family="Segoe UI,Arial,sans-serif">Paint inlet</text>
+<rect x="440" y="650" width="290" height="120" rx="12" fill="#e4eff8" stroke="#b6ccdf" stroke-width="2"/>
+<text x="458" y="691" fill="#142d44" font-size="23" font-family="Segoe UI,Arial,sans-serif">Paint pressure tank</text>
+<text x="458" y="721" fill="#142d44" font-size="19" font-family="Segoe UI,Arial,sans-serif">Paint supply</text>
+<rect x="800" y="650" width="300" height="120" rx="12" fill="#e4eff8" stroke="#b6ccdf" stroke-width="2"/>
+<text x="818" y="691" fill="#142d44" font-size="23" font-family="Segoe UI,Arial,sans-serif">Control system</text>
+<text x="818" y="721" fill="#142d44" font-size="19" font-family="Segoe UI,Arial,sans-serif">Electrical valve command</text>
+<polyline points="335,240 440,240" fill="none" stroke="#2276ad" stroke-width="4"/>
+<polygon points="440,240 427,232 427,248" fill="#2276ad"/>
+<polyline points="685,240 800,240" fill="none" stroke="#2276ad" stroke-width="4"/>
+<polygon points="800,240 787,232 787,248" fill="#2276ad"/>
+<polyline points="560,300 560,480 800,480" fill="none" stroke="#2276ad" stroke-width="4"/>
+<polygon points="800,480 787,472 787,488" fill="#2276ad"/>
+<polyline points="1100,240 1290,240 1290,300" fill="none" stroke="#2276ad" stroke-width="4"/>
+<polygon points="1290,300 1282,287 1298,287" fill="#2276ad"/>
+<text x="1123" y="214" fill="#142d44" font-size="19" font-family="Segoe UI,Arial,sans-serif">Atomization air</text>
+<polyline points="1100,480 1150,480 1150,395 1190,395" fill="none" stroke="#2276ad" stroke-width="4"/>
+<polygon points="1190,395 1177,387 1177,403" fill="#2276ad"/>
+<text x="1115" y="530" fill="#142d44" font-size="19" font-family="Segoe UI,Arial,sans-serif">Control air</text>
+<polyline points="950,650 950,540" fill="none" stroke="#bc6a27" stroke-width="4"/>
+<polygon points="950,540 942,553 958,553" fill="#bc6a27"/>
+<text x="972" y="599" fill="#9a5420" font-size="19" font-family="Segoe UI,Arial,sans-serif">Electrical control</text>
+<polyline points="585,770 585,790 1340,790 1340,465" fill="none" stroke="#26826c" stroke-width="4"/>
+<polygon points="1340,465 1332,478 1348,478" fill="#26826c"/>
+<text x="1125" y="818" fill="#26826c" font-size="19" font-family="Segoe UI,Arial,sans-serif">Paint supply</text>
+<text x="45" y="855" fill="#51667a" font-size="20" font-family="Segoe UI,Arial,sans-serif">Connections follow the original schematic; component ratings and operating settings were not provided.</text>
+</svg>

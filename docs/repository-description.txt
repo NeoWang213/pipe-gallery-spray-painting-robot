@@ -1,0 +1,1 @@
+Compact robot for pipe-gallery maintenance with a custom spray system, Python desktop control, and vision-guided painting path planning. Includes SolidWorks models and physical demonstrations.

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900">
+<rect width="1440" height="900" fill="#f5f8fc"/>
+<text x="45" y="66" fill="#142d44" font-size="36" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">喷枪电控原理示意</text>
+<text x="46" y="110" fill="#51667a" font-size="20" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">根据项目描述重绘 · 信号与功率通路示意 · 非原始接线图</text>
+<rect x="45" y="190" width="240" height="115" rx="12" fill="#e4eff8" stroke="#b6ccdf" stroke-width="2"/>
+<text x="63" y="231" fill="#142d44" font-size="23" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">手机端蓝牙控制</text>
+<text x="63" y="261" fill="#142d44" font-size="19" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">原项目手机端工具</text>
+<rect x="365" y="190" width="260" height="115" rx="12" fill="#e4eff8" stroke="#b6ccdf" stroke-width="2"/>
+<text x="383" y="231" fill="#142d44" font-size="23" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">蓝牙模块</text>
+<text x="383" y="261" fill="#142d44" font-size="19" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">型号与接口未保留</text>
+<rect x="365" y="395" width="260" height="130" rx="12" fill="#e4eff8" stroke="#b6ccdf" stroke-width="2"/>
+<text x="383" y="436" fill="#142d44" font-size="23" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">STM32F103RCT6</text>
+<text x="383" y="466" fill="#142d44" font-size="19" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">控制信号输出</text>
+<text x="383" y="500" fill="#142d44" font-size="19" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">小电流控制侧</text>
+<rect x="45" y="395" width="240" height="130" rx="12" fill="#e4eff8" stroke="#b6ccdf" stroke-width="2"/>
+<text x="63" y="436" fill="#142d44" font-size="23" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">OLED 显示模块</text>
+<text x="63" y="466" fill="#142d44" font-size="19" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">显示状态</text>
+<text x="63" y="500" fill="#142d44" font-size="19" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">型号与接口未保留</text>
+<rect x="745" y="395" width="260" height="130" rx="12" fill="#e4eff8" stroke="#b6ccdf" stroke-width="2"/>
+<text x="763" y="436" fill="#142d44" font-size="23" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">继电器控制模块</text>
+<text x="763" y="466" fill="#142d44" font-size="19" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">控制侧 / 触点侧</text>
+<text x="763" y="500" fill="#142d44" font-size="19" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">模块内部驱动未展开</text>
+<rect x="745" y="190" width="260" height="115" rx="12" fill="#fcebdc" stroke="#b6ccdf" stroke-width="2"/>
+<text x="763" y="231" fill="#142d44" font-size="23" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">电磁阀供电</text>
+<text x="763" y="261" fill="#142d44" font-size="19" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">实际电压、额定电流</text>
+<text x="763" y="295" fill="#142d44" font-size="19" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">待依据实物确认</text>
+<rect x="1110" y="395" width="280" height="130" rx="12" fill="#fcebdc" stroke="#b6ccdf" stroke-width="2"/>
+<text x="1128" y="436" fill="#142d44" font-size="23" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">电磁阀</text>
+<text x="1128" y="466" fill="#142d44" font-size="19" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">由继电器触点控制</text>
+<text x="1128" y="500" fill="#142d44" font-size="19" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">功率回路通断</text>
+<rect x="1110" y="640" width="280" height="115" rx="12" fill="#dff1eb" stroke="#b6ccdf" stroke-width="2"/>
+<text x="1128" y="681" fill="#142d44" font-size="23" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">喷枪控制气路</text>
+<text x="1128" y="711" fill="#142d44" font-size="19" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">电磁阀控制启闭</text>
+<text x="1128" y="745" fill="#142d44" font-size="19" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">雾化与供漆另见气路图</text>
+<polyline points="285,248 365,248" fill="none" stroke="#2276ad" stroke-width="4"/>
+<polygon points="365,248 352,240 352,256" fill="#2276ad"/>
+<polyline points="495,305 495,395" fill="none" stroke="#2276ad" stroke-width="4"/>
+<polygon points="495,395 487,382 503,382" fill="#2276ad"/>
+<polyline points="365,460 285,460" fill="none" stroke="#2276ad" stroke-width="4"/>
+<polygon points="285,460 298,452 298,468" fill="#2276ad"/>
+<polyline points="625,460 745,460" fill="none" stroke="#2276ad" stroke-width="4"/>
+<polygon points="745,460 732,452 732,468" fill="#2276ad"/>
+<text x="645" y="436" fill="#142d44" font-size="18" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">信号</text>
+<polyline points="875,305 875,395" fill="none" stroke="#bc6a27" stroke-width="4"/>
+<polygon points="875,395 867,382 883,382" fill="#bc6a27"/>
+<polyline points="1005,495 1110,495" fill="none" stroke="#bc6a27" stroke-width="4"/>
+<polygon points="1110,495 1097,487 1097,503" fill="#bc6a27"/>
+<text x="1018" y="570" fill="#9a5420" font-size="18" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">触点控制的功率通路</text>
+<polyline points="1250,525 1250,640" fill="none" stroke="#26826c" stroke-width="4"/>
+<polygon points="1250,640 1242,627 1258,627" fill="#26826c"/>
+<text x="45" y="665" fill="#142d44" font-size="25" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">控制说明</text>
+<text x="45" y="706" fill="#142d44" font-size="21" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">蓝牙与 OLED 为后期扩展；上位机软件负责机械臂运动。</text>
+<text x="45" y="746" fill="#142d44" font-size="21" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">喷枪通过独立遥控开关；现有 Python 文件未集成喷枪自动联动。</text>
+<text x="45" y="830" fill="#51667a" font-size="20" font-family="Microsoft YaHei,Noto Sans CJK SC,sans-serif">未推定引脚、供电电压、保护元件或共地方式；实际接线须依据器件资料与实物确认。</text>
+</svg>

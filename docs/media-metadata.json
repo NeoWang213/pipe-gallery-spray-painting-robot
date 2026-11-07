@@ -1,0 +1,30 @@
+[
+  {
+    "file": "完整客户端演示视频.mp4",
+    "duration_seconds": 30.17,
+    "width": 1920,
+    "height": 1080,
+    "bytes": 54346553
+  },
+  {
+    "file": "定位演示视频.mp4",
+    "duration_seconds": 32.72,
+    "width": 1280,
+    "height": 720,
+    "bytes": 12085888
+  },
+  {
+    "file": "喷漆定位验证视频.mp4",
+    "duration_seconds": 22.0,
+    "width": 2688,
+    "height": 1512,
+    "bytes": 119881171
+  },
+  {
+    "file": "蓝牙控制喷枪开关演示视频.mp4",
+    "duration_seconds": 6.83,
+    "width": 1280,
+    "height": 720,
+    "bytes": 4517184
+  }
+]

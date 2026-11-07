@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="900" viewBox="0 0 1440 900">
+<rect width="1440" height="900" fill="#f5f8fc"/>
+<text x="45" y="66" fill="#142d44" font-size="36" font-family="Segoe UI,Arial,sans-serif">Spray-Gun Electrical Control</text>
+<text x="46" y="110" fill="#51667a" font-size="20" font-family="Segoe UI,Arial,sans-serif">Reconstructed from the project description | Functional signal and power paths | Not a wiring diagram</text>
+<rect x="45" y="190" width="240" height="115" rx="12" fill="#e4eff8" stroke="#b6ccdf" stroke-width="2"/>
+<text x="63" y="231" fill="#142d44" font-size="23" font-family="Segoe UI,Arial,sans-serif">Mobile control</text>
+<text x="63" y="261" fill="#142d44" font-size="19" font-family="Segoe UI,Arial,sans-serif">Original Bluetooth app</text>
+<rect x="365" y="190" width="260" height="115" rx="12" fill="#e4eff8" stroke="#b6ccdf" stroke-width="2"/>
+<text x="383" y="231" fill="#142d44" font-size="23" font-family="Segoe UI,Arial,sans-serif">Bluetooth module</text>
+<text x="383" y="261" fill="#142d44" font-size="19" font-family="Segoe UI,Arial,sans-serif">Model and interface</text>
+<text x="383" y="295" fill="#142d44" font-size="19" font-family="Segoe UI,Arial,sans-serif">not retained</text>
+<rect x="365" y="395" width="260" height="130" rx="12" fill="#e4eff8" stroke="#b6ccdf" stroke-width="2"/>
+<text x="383" y="436" fill="#142d44" font-size="23" font-family="Segoe UI,Arial,sans-serif">STM32F103RCT6</text>
+<text x="383" y="466" fill="#142d44" font-size="19" font-family="Segoe UI,Arial,sans-serif">Control signal output</text>
+<text x="383" y="500" fill="#142d44" font-size="19" font-family="Segoe UI,Arial,sans-serif">Low-current control</text>
+<rect x="45" y="395" width="240" height="130" rx="12" fill="#e4eff8" stroke="#b6ccdf" stroke-width="2"/>
+<text x="63" y="436" fill="#142d44" font-size="23" font-family="Segoe UI,Arial,sans-serif">OLED display</text>
+<text x="63" y="466" fill="#142d44" font-size="19" font-family="Segoe UI,Arial,sans-serif">Status indication</text>
+<text x="63" y="500" fill="#142d44" font-size="19" font-family="Segoe UI,Arial,sans-serif">Model not retained</text>
+<rect x="745" y="395" width="260" height="130" rx="12" fill="#e4eff8" stroke="#b6ccdf" stroke-width="2"/>
+<text x="763" y="436" fill="#142d44" font-size="23" font-family="Segoe UI,Arial,sans-serif">Relay module</text>
+<text x="763" y="466" fill="#142d44" font-size="19" font-family="Segoe UI,Arial,sans-serif">Control / contact sides</text>
+<text x="763" y="500" fill="#142d44" font-size="19" font-family="Segoe UI,Arial,sans-serif">Driver details not shown</text>
+<rect x="745" y="190" width="260" height="115" rx="12" fill="#fcebdc" stroke="#b6ccdf" stroke-width="2"/>
+<text x="763" y="231" fill="#142d44" font-size="23" font-family="Segoe UI,Arial,sans-serif">Valve power supply</text>
+<text x="763" y="261" fill="#142d44" font-size="19" font-family="Segoe UI,Arial,sans-serif">Voltage and rated current</text>
+<text x="763" y="295" fill="#142d44" font-size="19" font-family="Segoe UI,Arial,sans-serif">require confirmation</text>
+<rect x="1110" y="395" width="280" height="130" rx="12" fill="#fcebdc" stroke="#b6ccdf" stroke-width="2"/>
+<text x="1128" y="436" fill="#142d44" font-size="23" font-family="Segoe UI,Arial,sans-serif">Solenoid valve</text>
+<text x="1128" y="466" fill="#142d44" font-size="19" font-family="Segoe UI,Arial,sans-serif">Switched by relay contacts</text>
+<text x="1128" y="500" fill="#142d44" font-size="19" font-family="Segoe UI,Arial,sans-serif">Power circuit on / off</text>
+<rect x="1110" y="640" width="280" height="115" rx="12" fill="#dff1eb" stroke="#b6ccdf" stroke-width="2"/>
+<text x="1128" y="681" fill="#142d44" font-size="23" font-family="Segoe UI,Arial,sans-serif">Spray control air</text>
+<text x="1128" y="711" fill="#142d44" font-size="19" font-family="Segoe UI,Arial,sans-serif">Valve opens / closes</text>
+<text x="1128" y="745" fill="#142d44" font-size="19" font-family="Segoe UI,Arial,sans-serif">See pneumatic diagram</text>
+<polyline points="285,248 365,248" fill="none" stroke="#2276ad" stroke-width="4"/>
+<polygon points="365,248 352,240 352,256" fill="#2276ad"/>
+<polyline points="495,305 495,395" fill="none" stroke="#2276ad" stroke-width="4"/>
+<polygon points="495,395 487,382 503,382" fill="#2276ad"/>
+<polyline points="365,460 285,460" fill="none" stroke="#2276ad" stroke-width="4"/>
+<polygon points="285,460 298,452 298,468" fill="#2276ad"/>
+<polyline points="625,460 745,460" fill="none" stroke="#2276ad" stroke-width="4"/>
+<polygon points="745,460 732,452 732,468" fill="#2276ad"/>
+<text x="645" y="436" fill="#142d44" font-size="18" font-family="Segoe UI,Arial,sans-serif">Signal</text>
+<polyline points="875,305 875,395" fill="none" stroke="#bc6a27" stroke-width="4"/>
+<polygon points="875,395 867,382 883,382" fill="#bc6a27"/>
+<polyline points="1005,495 1110,495" fill="none" stroke="#bc6a27" stroke-width="4"/>
+<polygon points="1110,495 1097,487 1097,503" fill="#bc6a27"/>
+<text x="1018" y="570" fill="#9a5420" font-size="18" font-family="Segoe UI,Arial,sans-serif">Relay-switched power</text>
+<polyline points="1250,525 1250,640" fill="none" stroke="#26826c" stroke-width="4"/>
+<polygon points="1250,640 1242,627 1258,627" fill="#26826c"/>
+<text x="45" y="665" fill="#142d44" font-size="25" font-family="Segoe UI,Arial,sans-serif">Control notes</text>
+<text x="45" y="706" fill="#142d44" font-size="21" font-family="Segoe UI,Arial,sans-serif">Bluetooth and OLED were added later; the desktop app controls arm motion.</text>
+<text x="45" y="746" fill="#142d44" font-size="21" font-family="Segoe UI,Arial,sans-serif">Spray switching uses a separate remote control, without automatic desktop linkage.</text>
+<text x="45" y="830" fill="#51667a" font-size="20" font-family="Segoe UI,Arial,sans-serif">Pin assignments, voltage, protection components, and grounding details are not inferred.</text>
+<text x="45" y="865" fill="#51667a" font-size="20" font-family="Segoe UI,Arial,sans-serif">Actual wiring must follow the hardware and component documentation.</text>
+</svg>
